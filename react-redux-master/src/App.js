@@ -1,12 +1,10 @@
-import React from 'react';
-import MainPanel from './components/MainPanel';
-
+import MainPanel from "./components/MainPanel";
+import React from "react";
 function App() {
   return (
-      <div>
-        <MainPanel/>
-      </div>
-    );
+    <div>
+      <MainPanel />
+    </div>
+  );
 }
-
 export default App;
